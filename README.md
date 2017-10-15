@@ -12,7 +12,7 @@ This repo contains the code for AI GameBot that runs in various enviornments.
 1.To get started, you'll need to have Python 2.7 or Python 3.5.
 
 
-2.The gym open-source library adn its dependencies.
+2.The gym open-source library and its dependencies.
 
 Output:
 
