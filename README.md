@@ -15,3 +15,5 @@ This repo contains the code for AI GameBot that runs in various enviornments.
 2.The gym open-source library adn its dependencies.
 
 Output:
+
+![1-omsg2_mkguagky1c64uflw](https://user-images.githubusercontent.com/19835029/31588566-8704b760-b211-11e7-907a-6490d2d6559c.gif)
